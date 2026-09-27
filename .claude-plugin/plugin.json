@@ -1,0 +1,19 @@
+{
+  "name": "healthcheckemail",
+  "version": "1.0.1",
+  "description": "Inspect monitored domains, email-health history, authentication diagnostics and DMARC enforcement readiness. Manage monitoring, public status pages, alerts and team access with your account permissions. Some actions send notifications, expose public status or change access. MCP access requires an eligible plan.",
+  "author": {
+    "name": "HealthCheckEmail",
+    "url": "https://healthcheckemail.com"
+  },
+  "homepage": "https://healthcheckemail.com",
+  "repository": "https://github.com/HealthCheckEmail/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "claude",
+    "healthcheckemail",
+    "oauth"
+  ],
+  "icon": "./.claude-plugin/icon.png"
+}
